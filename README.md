@@ -19,8 +19,8 @@
 
 <div style="display:flex; flex-direction: row; gap: 12px"> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwaichanz&" alt="kwaichanz" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwaichanz&" alt="kwaichanz" />
 
 </div>
