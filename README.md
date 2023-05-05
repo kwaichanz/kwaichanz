@@ -1,11 +1,8 @@
 <div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQzZGQzZTM1ZmNmYzY0OTNhNWFiMjkzMjg5MzI1ZWYxODkxZGMxOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif"/>
 </div>
-<h2 align="center">Hey there👋, I'm Kwanchai Wannachai </h2>
+<h3 align="center">Hey there👋, I'm Kwanchai Wannachai </h3>
 
-<h3 align="center"></h3>
-
-
-
+---
 
  <h3> About Me <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="50" />&nbsp:</h3>
 
@@ -19,8 +16,8 @@
 
 <p align="left">
 </p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
+<h2> </h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -111,25 +108,20 @@
       height="40"
     />
   </a>
- 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 
 </p>
-<br />
 
-:fire: My Stats :
+<h2> </h2>
+
+<h3>:fire: My Stats :</h3>
 
 <div style="width: 100%; display:flex; justify-content: space-around; flex-direction: row;"> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" /> -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwaichanz&" alt="kwaichanz" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
