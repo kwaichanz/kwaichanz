@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Document request form & ShareMe Projects**
 
-- 🌱 I’m currently learning **GO & Flutter**
+- 🌱 I’m also currently learning **GO & Flutter**
 
-- 💬 Ask me about **my interests and projects**
+- 💬 I'm open for discussion about **job interests and projects**
 
-- 📫 How to reach me **alphezelphaz@gmail.com**
+- 📫 Here's how to reach me **alphezelphaz@gmail.com**
 
 <p align="left">
 </p>
