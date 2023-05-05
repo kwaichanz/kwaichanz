@@ -6,11 +6,13 @@
 
  <h3> About Me <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="50" />&nbsp:</h3>
 
-- 🔭 I’m currently working on **Document request form & ShareMe Projects**
+- 🔭 I’m working as a Programmer contributing to frontend and backend for web application
 
-- 🌱 I’m also currently learning **GO & Flutter**
+- 💻	I'm currently working  on **Document request form & ShareMe Projects**
 
-- 💬 I'm open for discussion about **job interests and projects**
+- 🌱 I'm also eager to learn **GO & Flutter**
+
+- 💬 I'd love to discuss about **job interests and projects**
 
 - 📫 Here's how to reach me **alphezelphaz@gmail.com**
 
@@ -120,7 +122,7 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" /> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kwaichanz&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaichanz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
