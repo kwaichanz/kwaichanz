@@ -1,4 +1,4 @@
-<div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQzZGQzZTM1ZmNmYzY0OTNhNWFiMjkzMjg5MzI1ZWYxODkxZGMxOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/CuuSHzuc0O166MRfjt/giphy.gif"/>
+<div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 </div>
 <h3 align="center">Hey there👋, I'm Kwanchai Wannachai </h3>
 
