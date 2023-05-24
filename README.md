@@ -8,13 +8,13 @@
 
 - 🔭 I’m working as a Programmer contributing to frontend and backend for web application
 
-- 💻	I'm currently working  on **Document request form & ShareMe Projects**
+- 💻	I'm currently working  on **Document request form & ShareMe** as personal projects
 
-- 🌱 I'm also eager to learn **GO & Flutter**
+- 🌱 I'm also learning **GO**
 
 - 💬 I'd love to discuss about **job interests and projects**
 
-- 📫 Here's how to reach me **alphezelphaz@gmail.com**
+- 📫 Contact: **alphezelphaz@gmail.com**
 
 <p align="left">
 </p>
