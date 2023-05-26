@@ -10,7 +10,7 @@
 
 - 💻	I'm currently working  on **Document request form & ShareMe** as personal projects
 
-- 🌱 I'm also learning **GO**
+- 🌱 I'm learning **GO**
 
 - 💬 I'd love to discuss about **job interests and projects**
 
