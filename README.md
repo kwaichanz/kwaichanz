@@ -10,7 +10,7 @@
 
 - 💻	I'm currently working  on **BT-Buy & ShareMe** 
 
-- 🌱 I'm learning **GO**
+- 🌱 I'm also eagerly learning **GO**
 
 - 💬 I'd love to discuss about **job interests and projects**
 
