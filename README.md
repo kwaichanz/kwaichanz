@@ -8,9 +8,7 @@
 
 - 🔭 I’m working as a Programmer contributing to frontend and backend for web application
 
-- 💻	I'm currently working  on **BT-Buy & ShareMe** 
-
-- 🌱 I'm also eagerly learning **GO**
+- 💻	I'm currently working  on expanding my frontend fields 
 
 - 💬 I'd love to discuss about **job interests and projects**
 
