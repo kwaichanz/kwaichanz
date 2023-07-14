@@ -1,16 +1,14 @@
 <div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
 </div>
-<h3 align="center">Hey there👋, I'm Kwanchai Wannachai </h3>
+<h3 align="center">Hey there👋, I'm Kwanchai </h3>
 
 ---
 
  <h3> About Me <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="50" />&nbsp:</h3>
 
-- 🔭 I’m working as a Programmer contributing to frontend and backend for web application
+- 🔭 I’m working as a developer for the frontend and backend for web application
 
-- 💻	I'm currently working  on expanding my frontend fields 
-
-- 💬 I'd love to discuss about **job interests and projects**
+- 💻	I'm currently working on expanding my frontend fields 
 
 - 📫 Contact: **alphezelphaz@gmail.com**
 
