@@ -1,17 +1,14 @@
-<div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
-</div>
-<h3 align="center">Hey there👋, I'm Kwanchai </h3>
+<!---{<div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+</div> -->
 
----
 
- <h3> About Me <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="50" />&nbsp:</h3>
+        /\/\__________/\/\
+       /                  \
+      /                    \
+     /        O      O      \
+    /            WWW          \
 
-- 🔭 I’m working as a developer for the frontend and backend for web application
-
-- 💻	I'm currently working on expanding my frontend fields 
-
-- 📫 Contact: **alphezelphaz@gmail.com**
-
+      
 <p align="left">
 </p>
 
@@ -71,7 +68,7 @@
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
@@ -79,7 +76,7 @@
       height="40"
     />
   </a>
-
+-->
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -106,14 +103,7 @@
     />
   </a>
  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
+
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 
 </p>
