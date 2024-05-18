@@ -1,5 +1,4 @@
-<!---{<div align="center" > <img  align="center" width="150px" style="border-radius: 50%;" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
-</div> -->
+
 
 
         /\/\__________/\/\
@@ -52,14 +51,7 @@
       height="40"
     />
   </a>
-<!--    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a> -->
+
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
