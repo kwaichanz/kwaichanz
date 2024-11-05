@@ -63,7 +63,7 @@
   <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
+g      alt="express"
       width="40"
       height="40"
     />
@@ -105,12 +105,12 @@
 
 <div style="width: 100%; display:flex; justify-content: space-around; flex-direction: row;"> 
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwaichanz&show_icons=true&locale=en&layout=compact" alt="kwaichanz" /> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kwaichanz&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaichanz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 </div>
