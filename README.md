@@ -1,13 +1,8 @@
 
 
+Hi I work as a software dev, usually revolving around the web and servers. 
+I also sometimes do personal projects for learning and other purposes.
 
-        /\/\__________/\/\
-       /                  \
-      /                    \
-     /        O      O      \
-    /            WWW          \
-
-      
 <p align="left">
 </p>
 
